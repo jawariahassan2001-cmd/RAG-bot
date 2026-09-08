@@ -1,0 +1,34 @@
+﻿Company IT Security Policy — NovaGuard Technologies
+1. Device use
+Employees may use personal laptops for work only if 
+they are enrolled in the company's Mobile Device Management
+ (MDM) system. Personal USB drives and external storage 
+ devices are not permitted to be connected to any company 
+ laptop without prior written approval from the IT Security
+  team. Company-issued devices must have full-disk encryption 
+  enabled at all times.
+
+2. Password Requirements
+All employee accounts must use passwords that are at least 12
+characters long, containing a mix of uppercase letters, 
+lowercase letters, numbers, and symbols. Passwords must be
+changed every 90 days. Multi-factor authentication (MFA) is
+mandatory for all accounts with access to customer data or
+ internal systems.
+
+3. Remote Work Access
+Employees working remotely must connect to internal systems 
+only through the company VPN. Access from public Wi-Fi networks
+(such as cafes or airports) without VPN is strictly prohibited.
+Remote access requests from outside the employee's registered 
+home country must be approved by a manager at least 48 hours 
+in advance.
+
+4. Incident Reporting
+Any suspected security incident, including lost devices, 
+phishing emails, or unauthorized access attempts, must be 
+reported to the IT Security team within 4 hours of discovery. 
+Reports can be made via the internal ticketing system or by 
+emailing security@novaguard.example. Employees who fail to 
+report a known incident within this window may be subject to 
+disciplinary review.

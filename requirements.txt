@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-community
+chromadb
+sentence-transformers
+python-dotenv
+langchain-classicpip install langchain-classic
